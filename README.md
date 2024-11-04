@@ -37,7 +37,7 @@ The Terraform configuration files with(`*.tf`) in this repository define the AWS
 | 6 | [Creating Database in Private Subnet][Step-6] |
 | 7 | [Providing values for Variables][Step-7] |
 | 8 | [Getting DNS as Output][Step-8] |
-| 9 | [Final Output][Step-9] |
+| 9 | [Final Output][Step-9]|
 
 
    [Step-1]: <./set-up.md>
