@@ -5,7 +5,7 @@ This project aims to create a robust highily available web application infrastru
 
 ## Architectural Diagram 
 
-![architectural-diagram](https://github.com/mathesh-me/two-tier-architecture-aws-using-terraform/assets/144098846/0bdc98f3-7bb4-4b6f-abd6-e4fa182c3c6c)
+![architectural-diagram](https://github.com/kotgire58/2-tier-infra/blob/main/image.png)
 
 
 ## Key Features
