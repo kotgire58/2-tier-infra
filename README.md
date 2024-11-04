@@ -16,11 +16,7 @@ This project aims to create a robust highily available web application infrastru
 - **Database Management:** A managed database service  Amazon RDS is used to store and manage application data, providing reliability and data durability.
 - **Load Balancing:** Employing Elastic Load Balancers (ELBs) to distribute incoming traffic across multiple web servers, optimizing resource utilization.
 
-## Prerequistes
-1. Basic knowledge of AWS services and concepts.<br>
-2. Familiarity with Terraform and infrastructure as code principles.<br>
-3. An AWS account with appropriate permissions.<br>
-4. An IDE of your Choice , I would suggest VS Code Editor .<br>
+
 
 ## Terraform Configuration
 
